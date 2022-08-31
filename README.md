@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NVergil
 - 👀 I’m interested in ... Being a Full Stack Web Developer
 - 🌱 I’m currently learning ... Course of Zero to Mastery on Web Developing
+with Andrei (ZTM); alert("HI!");
 - 💞️ I’m looking to collaborate on ... I´m Not Sure on this, I just come here to learn more...
 - 📫 How to reach me ...
 
