@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVergil&show_icons=true)
-
+![VerDanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVergil&show_icons=true)
+![VerDanT's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=NVergil&theme=tokyonight)
 - 👋 Hi, I’m @NVergil
 - 👀 I’m interested in ... Being a Full Stack Web Developer
 - 🌱 I’m currently learning ... Course of Zero to Mastery on Web Developing
