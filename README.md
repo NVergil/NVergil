@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 - 👋 Hi, I’m @NVergil
 - 👀 I’m interested in ... Being a Full Stack Web Developer
 - 🌱 I’m currently learning ... Course of Zero to Mastery on Web Developing
