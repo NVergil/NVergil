@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVergil&show_icons=true)
 
 - 👋 Hi, I’m @NVergil
 - 👀 I’m interested in ... Being a Full Stack Web Developer
